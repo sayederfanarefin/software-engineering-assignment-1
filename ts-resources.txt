@@ -1,0 +1,11 @@
+Resources for TS translation:
+
+fib.ts:
+ - exporting: https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html#exporting-from-modules
+ - functions: https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#functions
+
+
+fibRoute.ts:
+ - Importing - https://www.typescriptlang.org/docs/handbook/modules.html#import
+ - Express req, res types - https://stackoverflow.com/a/58567246
+ - Functions - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#functions

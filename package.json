@@ -5,7 +5,7 @@
   "main": "dist/app.js",
   "scripts": {
     "start": "tsc && node dist/src/app.js",
-    "lint": "eslint . --config .eslintrc.json",
+    "lint": "eslint .",
     "test": "jest",
     "build": "rm -rf dist && tsc --build"
   },

@@ -15,3 +15,4 @@ A GitHub Action is set up to run ESLint and the Jest tests for the factorial end
 
 - To run the linter locally, use: `npm run lint`
 - To run the tests locally, use: `npm run test`
+- T1
